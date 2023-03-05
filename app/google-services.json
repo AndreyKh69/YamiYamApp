@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508981017930",
+    "project_id": "android-project-colman",
+    "storage_bucket": "android-project-colman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508981017930:android:a1d016d7dc0c8f380c55b3",
+        "android_client_info": {
+          "package_name": "com.example.yamiyamiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508981017930-2gudg2qoat67c1i18045m3g06ff62175.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5M0JaO8MhWgP8oFrTIBHxy-vDX2bnjEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508981017930-2gudg2qoat67c1i18045m3g06ff62175.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
